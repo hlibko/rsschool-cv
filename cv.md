@@ -4,7 +4,7 @@
 
 ---
 
-_Stockholm, Sweden | +46 70-102 03 04 | [GitHub](https://github.com/hlibko/)_
+Stockholm, Sweden | +46 70-102 03 04 | [GitHub](https://github.com/hlibko/)
 
 ---
 
