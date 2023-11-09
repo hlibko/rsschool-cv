@@ -1,13 +1,10 @@
 # Hlib Kochubei
 
-Full-Stack Developer (.Net, Angular & Azure)
+**Full-Stack Developer (.Net, Angular & Azure)**
 
 ---
 
-Stockholm, Sweden
-hlib.kochubei@mail
-+46 70-102 03 04
-https://github.com/hlibko/
+_Stockholm, Sweden | +46 70-102 03 04 | [GitHub](https://github.com/hlibko/)_
 
 ---
 
