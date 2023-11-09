@@ -18,20 +18,21 @@ C#, .Net, MS SQL, PostgreSQL, JavaScript, TypeScript, Angular, Azure, CI/CD
 
 ## Employment History
 
-`April 2022 - current`
-**Spotify**, Stockholm
+`April 2022 - current` | **Gleberg**, Stockholm
 
 - Developed user interfaces with Angular frameworks,
   HTML5, and CSS3, which improved user satisfaction by 31%.
-- Developed object-oriented code in .Net framework with 100% accordance
-  to industry and company standards.
 
-`May 2019 - March 2022`
-**SAAB**, Västerås
+`May 2019 - March 2022` | **Applytics360**, Vaxholm
 
 - Designed and developed web applications using JavaScript
   frameworks React.js and Angular.js to increase target audience
   engagement by 12%.
+
+`March 2017 - January 2019` | **Rewardeza**, Kyiv
+
+- Developed object-oriented code in .Net framework with 100% accordance
+  to industry and company standards.
 
 ## Education
 
@@ -40,7 +41,7 @@ C#, .Net, MS SQL, PostgreSQL, JavaScript, TypeScript, Angular, Azure, CI/CD
 
 - Computer Science
 
-`2005-2010`
+`2005 - 2010`
 **National Aviation University, Kyiv**
 
 - Economics
