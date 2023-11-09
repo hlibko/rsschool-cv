@@ -44,3 +44,10 @@ C#, .Net, MS SQL, JavaScript, TypeScript, Angular, Azure
 **National Aviation University, Kyiv**
 
 - Economics
+
+## Languages
+
+- English - Proficient
+- Swedish - Intermediate
+- Russian - Native
+- Ukrainian - Native
