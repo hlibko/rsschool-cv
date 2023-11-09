@@ -14,7 +14,7 @@ I specialize in the development of intricate and sophisticated digital solutions
 
 ### Skills
 
-C#, .Net, MS SQL, JavaScript, TypeScript, Angular, Azure
+C#, .Net, MS SQL, PostgreSQL, JavaScript, TypeScript, Angular, Azure, CI/CD
 
 ## Employment History
 
