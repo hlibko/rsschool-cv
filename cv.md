@@ -10,7 +10,7 @@ _Stockholm, Sweden | +46 70-102 03 04 | [GitHub](https://github.com/hlibko/)_
 
 ## Profile
 
-I build complex websites, apps, and corporate cloud software.
+I specialize in the development of intricate and sophisticated digital solutions, encompassing the creation of complex websites and advanced corporate cloud software. My expertise lies in architecting and implementing robust, feature-rich platforms that cater to diverse business needs. Whether it's crafting seamless user experiences, integrating intricate functionalities, or optimizing performance.
 
 ### Skills
 
