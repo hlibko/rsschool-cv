@@ -81,10 +81,28 @@ Key focus areas:
 
 ## Projects
 
-- **ASP.NET Core eCommerce App:** [SportsSln](https://github.com/hlibko/SportsSln)  
-  This project showcases the development of a fully functional e-commerce application using ASP.NET Core. It demonstrates core ASP.NET features such as controllers, action methods, views, Razor Pages, Blazor components, routing, form validation, and authentication.
+- **ASP.NET Core eCommerce App:** [SportsSln](https://github.com/hlibko/SportsSln)
+
+    This project showcases the development of a fully functional e-commerce application using ASP.NET Core. It demonstrates core ASP.NET features such as controllers, action methods, views, Razor Pages, Blazor components, routing, form validation, and authentication.
 
 - **Note365:** [note365-web](https://github.com/hlibko/note365-web)  
-  Note365 Web is a web application designed for efficient note-taking and organization. It allows users to create, edit, and categorize notes, set reminders, and access notes from any device with internet access. Built with a user-friendly interface, Note365 Web provides a seamless experience for personal and professional organization, featuring secure login, search functionality, and customizable settings to suit individual user needs.
+    
+    Note365 Web is a web application designed for efficient note-taking and organization. It allows users to create, edit, and categorize notes, set reminders, and access notes from any device with internet access. Built with a user-friendly interface, Note365 Web provides a seamless experience for personal and professional organization, featuring secure login, search functionality, and customizable settings to suit individual user needs.
 
 ---
+
+## Education
+
+- **JENSEN education** — Stockholm, 2025
+
+    Completed a full-time vocational program in Network and Support Technician as part of the Electricity and Energy Program. The training provided a broad foundation in networking and system administration, with a focus on hands-on labs that reflect current IT environments. Key areas of study included Cisco routers and switches, Microsoft Server and Active Directory, and essential network services. The program was conducted in Swedish.
+
+---
+
+## Languages
+
+- **English**
+- **Swedish**
+- **Romanian**
+- **Ukrainian**
+- **Russian**
