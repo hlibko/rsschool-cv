@@ -1,9 +1,10 @@
-# Gleb Kochubey
+# Filip Koch
 
 **Contact Information:**  
-- **Phone:** +1-123-456-7890  
-- **Email:** hlibko@protonmail.com   
-- **GitHub:** [github.com/hlibko](https://github.com/hlibko)  
+- **Phone:** +46 70-012 34 56  
+- **Email:** iam.filip.koch@outlook.com
+- **LinkedIn:** [linkedin.com/in/hlibko/](https://www.linkedin.com/in/hlibko/)
+- **GitHub:** [github.com/hlibko](https://github.com/hlibko)
 
 ---
 
