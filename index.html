@@ -26,6 +26,7 @@
                 <li><a href="#skills">Skills</a></li>
                 <li><a href="#experience">Experience</a></li>
                 <li><a href="#projects">Projects</a></li>
+                <li><a href="#code-sample">Code Sample</a></li>
                 <li><a href="#education">Education</a></li>
                 <li><a href="#languages">Languages</a></li>
             </ul>
@@ -87,6 +88,31 @@
                     </article>
                 </section>
 
+                <section id="code-sample" class="section">
+                    <h2>Code Sample</h2>
+                    <article>
+                        <pre><code>public static int? BinarySearch(
+    IList&lt;int&gt; list, int item)
+{
+    var low = 0;
+    var high = list.Count - 1;
+
+    while (low &lt;= high)
+    {
+        var mid = (low + high) / 2;
+        var guess = list[mid];
+
+        if (guess == item) return mid;
+        if (guess &gt; item) high = mid - 1;
+        else low = mid + 1;
+    }
+
+    return null;
+}</code></pre>
+                    </article>
+                </section>
+
+
                 <section id="education" class="section">
                     <h2>Education</h2>
                     <article>
@@ -129,35 +155,13 @@
 
                 <section id="languages" class="section card">
                     <h2>Languages</h2>
-                    <ul class="plain-list">
-                        <li>English</li>
-                        <li>Swedish</li>
-                        <li>Romanian</li>
-                        <li>Ukrainian</li>
-                        <li>Russian</li>
+                    <ul class="skill-list">
+                        <li><strong>English</strong><span>Professional working proficiency</span></li>
+                        <li><strong>Swedish</strong><span>Professional working proficiency</span></li>
+                        <li><strong>Romanian</strong><span>Native or bilingual proficiency</span></li>
+                        <li><strong>Ukrainian</strong><span>Native or bilingual proficiency</span></li>
+                        <li><strong>Russian</strong><span>Native or bilingual proficiency</span></li>
                     </ul>
-                </section>
-
-                <section class="section card">
-                    <h2>Code Sample</h2>
-                    <pre><code>public static int? BinarySearch(
-    IList&lt;int&gt; list, int item)
-{
-    var low = 0;
-    var high = list.Count - 1;
-
-    while (low &lt;= high)
-    {
-        var mid = (low + high) / 2;
-        var guess = list[mid];
-
-        if (guess == item) return mid;
-        if (guess &gt; item) high = mid - 1;
-        else low = mid + 1;
-    }
-
-    return null;
-}</code></pre>
                 </section>
             </aside>
         </section>

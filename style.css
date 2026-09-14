@@ -176,14 +176,12 @@ time {
 
 .main-column ul,
 .skill-list,
-.plain-list,
 .contact-list {
     margin: 0;
     padding-left: 20px;
 }
 
-.main-column li,
-.plain-list li {
+.main-column li {
     margin-bottom: 5px;
 }
 
@@ -225,10 +223,6 @@ time {
 
 .skill-list span {
     color: var(--muted);
-}
-
-.plain-list {
-    margin-bottom: 0;
 }
 
 .contact-list {
