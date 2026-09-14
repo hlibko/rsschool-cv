@@ -1,0 +1,184 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="CV of Filip Koch, Full-stack .NET Developer">
+    <title>Filip Koch — CV</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header class="site-header">
+        <div class="container hero">
+            <img class="avatar" src="https://github.com/hlibko.png" alt="Filip Koch" width="160" height="160">
+            <div>
+                <p class="eyebrow">Software Developer</p>
+                <h1>Filip Koch</h1>
+                <p class="intro">Motivated and dedicated software developer focused on clean, efficient and scalable web
+                    solutions.</p>
+            </div>
+        </div>
+        <nav class="container site-nav" aria-label="Main navigation">
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#experience">Experience</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#code-sample">Code Sample</a></li>
+                <li><a href="#education">Education</a></li>
+                <li><a href="#languages">Languages</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="container">
+        <div class="content-grid">
+            <div class="main-column">
+                <section id="about" class="section">
+                    <h2>About Me</h2>
+                    <p>Motivated and dedicated software developer with a strong foundation in web development and modern
+                        programming practices. Committed to continuous learning and improvement, with a keen interest in
+                        creating clean, efficient, and scalable solutions.</p>
+                </section>
+
+                <section id="experience" class="section">
+                    <h2>Work Experience</h2>
+                    <article>
+                        <div class="section-heading">
+                            <div>
+                                <h3>Full-stack .NET Developer</h3>
+                                <p class="muted"><a href="https://www.super.voyage/" target="_blank">Super.Voyage</a> —
+                                    Stockholm</p>
+                            </div>
+                            <time datetime="2026-01">01/2026 – Present</time>
+                        </div>
+                        <p>Building and scaling a travel platform using Umbraco CMS (.NET) as a headless backend and
+                            React on the frontend. Responsible for designing content architecture, multilingual and
+                            SEO-friendly solutions, and cloud infrastructure on Microsoft Azure.</p>
+                        <p class="label">Key focus areas</p>
+                        <ul>
+                            <li>Headless Umbraco CMS, content modeling, i18n &amp; SEO</li>
+                            <li>React frontend with Astro (SSG/SSR)</li>
+                            <li>Azure App Service, Azure SQL, Blob Storage, CDN</li>
+                            <li>Azure DevOps (CI/CD pipelines, Git)</li>
+                            <li>Docker &amp; containerized environments</li>
+                            <li>AI-driven features (SEO automation, content generation, recommendations)</li>
+                        </ul>
+                    </article>
+                </section>
+
+                <section id="projects" class="section">
+                    <h2>Projects</h2>
+                    <article class="project">
+                        <h3>ASP.NET Core eCommerce App</h3>
+                        <a href="https://github.com/hlibko/SportsSln" target="_blank">SportsSln</a>
+                        <p>This project showcases the development of a fully functional e-commerce application using
+                            ASP.NET Core. It demonstrates core ASP.NET features such as controllers, action methods,
+                            views, Razor Pages, Blazor components, routing, form validation, and authentication.</p>
+                    </article>
+                    <article class="project">
+                        <h3>Note365</h3>
+                        <a href="https://github.com/hlibko/note365-web" target="_blank">note365-web</a>
+                        <p>Note365 Web is a web application designed for efficient note-taking and organization. It
+                            allows users to create, edit, and categorize notes, set reminders, and access notes from any
+                            device with internet access. Built with a user-friendly interface, it provides secure login,
+                            search functionality, and customizable settings.</p>
+                    </article>
+                </section>
+
+                <section id="code-sample" class="section">
+                    <h2>Code Sample</h2>
+                    <article>
+                        <h3>Binary Search using C#</h3>
+                        <pre><code>public static int? BinarySearch(
+    IList&lt;int&gt; list, int item)
+{
+    var low = 0;
+    var high = list.Count - 1;
+
+    while (low &lt;= high)
+    {
+        var mid = (low + high) / 2;
+        var guess = list[mid];
+
+        if (guess == item) return mid;
+        if (guess &gt; item) high = mid - 1;
+        else low = mid + 1;
+    }
+
+    return null;
+}</code></pre>
+                    </article>
+                </section>
+
+
+                <section id="education" class="section">
+                    <h2>Education</h2>
+                    <article>
+                        <h3>JENSEN education</h3>
+                        <p class="muted">Stockholm, 2025</p>
+                        <p>Completed a full-time vocational program in Network and Support Technician as part of the
+                            Electricity and Energy Program. The training provided a broad foundation in networking and
+                            system administration, with a focus on hands-on labs that reflect current IT environments.
+                            Key areas included Cisco routers and switches, Microsoft Server and Active Directory, and
+                            essential network services. The program was conducted in Swedish.</p>
+                    </article>
+                </section>
+            </div>
+
+            <aside class="side-column">
+                <section class="section card">
+                    <h2>Contacts</h2>
+                    <ul class="contact-list">
+                        <li><span>Phone</span><a href="tel:+46700123456">+46 70-012 34 56</a></li>
+                        <li><span>Email</span><a href="mailto:iam.filip.koch@outlook.com">iam.filip.koch@outlook.com</a>
+                        </li>
+                        <li><span>LinkedIn</span><a href="https://www.linkedin.com/in/hlibko/"
+                                target="_blank">linkedin.com/in/hlibko/</a></li>
+                        <li><span>GitHub</span><a href="https://github.com/hlibko" target="_blank">github.com/hlibko</a>
+                        </li>
+                    </ul>
+                </section>
+
+                <section id="skills" class="section card">
+                    <h2>Skills</h2>
+                    <ul class="skill-list">
+                        <li><strong>Programming Languages</strong><span>C#, JavaScript, SQL</span></li>
+                        <li><strong>Frameworks &amp; Libraries</strong><span>.Net, Angular, Node.js</span></li>
+                        <li><strong>Development Tools</strong><span>Docker, Webpack</span></li>
+                        <li><strong>Methodologies</strong><span>Agile, TDD, CI/CD</span></li>
+                        <li><strong>Database Technologies</strong><span>MS SQL, PostgreSQL</span></li>
+                        <li><strong>Version Control</strong><span>Git, GitHub</span></li>
+                    </ul>
+                </section>
+
+                <section id="languages" class="section card">
+                    <h2>Languages</h2>
+                    <ul class="skill-list">
+                        <li><strong>English</strong><span>Professional working proficiency</span></li>
+                        <li><strong>Swedish</strong><span>Professional working proficiency</span></li>
+                        <li><strong>Romanian</strong><span>Native or bilingual proficiency</span></li>
+                        <li><strong>Ukrainian</strong><span>Native or bilingual proficiency</span></li>
+                        <li><strong>Russian</strong><span>Native or bilingual proficiency</span></li>
+                    </ul>
+                </section>
+            </aside>
+        </div>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container footer-content">
+            <a href="https://github.com/hlibko" target="_blank">GitHub</a>
+            <span>© 2026 Filip Koch</span>
+            <a class="rs-link" href="https://github.com/rolling-scopes-school/tasks/tree/master/fullstack-engineering"
+                target="_blank">
+                <img src="https://raw.githubusercontent.com/rolling-scopes-school/tasks/master/fullstack-engineering/tasks/cv/assets/rs-school-logo.svg"
+                    alt="Rolling Scopes School" width="120">
+            </a>
+        </div>
+    </footer>
+</body>
+
+</html>
